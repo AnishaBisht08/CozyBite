@@ -5,32 +5,27 @@ Users can explore recipes, search for meals, view recipe details, save favorites
 
 ## 📱 Screenshots
 
-| AppLogo                |                      
-|------------------------|
-| ![](cozybite_logo.jpg) |
+|Logo | Splash |
+|---------|-------|
+| ![](cozybit_logo.jpg) | ![](splash.jpg) |
+
+|Welcome | Login | Signup|
+|------|------|----------|
+| ![](welcome.jpg) | ![](login.jpg) | ![](signup.jpg) |
 
 
-| Splash          | Welcome          | Login          | 
-|-----------------|------------------|----------------|
-| ![](splash.jpg) | ![](welcome.jpg) | ![](login.jpg) |
+| Home | Search | Detail1|
+|---------|--------|----------|
+| ![](home.jpg) | ![](sesrch.jpg) | ![](detail1.jpg) |
+
+| Detail2 | Favorite | Create|
+|------|------|----------|
+| ![](detail2.jpg) | ![](favorite.jpg) | ![](create.jpg) |
 
 
-| signup          | Home          | Search          | 
-|-----------------|---------------|-----------------|
-| ![](signup.jpg) | ![](home.jpg) | ![](search.jpg) |
-
-
-| Detail1          | Detail2          | Favorite          | 
-|------------------|------------------|-------------------|
-| ![](detail1.jpg) | ![](detail2.jpg) | ![](favorite.jpg) |
-
-
-
-| Create          | My Recipes          |
-|-----------------|---------------------|
-| ![](create.jpg) | ![](my_recipes.jpg) | 
-
-
+|My Recipes |
+|------ |
+| ![](my_recipes.jpg) | 
 
 
 
