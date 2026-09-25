@@ -5,9 +5,9 @@ Users can explore recipes, search for meals, view recipe details, save favorites
 
 ## 📱 Screenshots
 
-|Logo     | Splash |
-|---------|-------|
-| ![](screenshot/cozybite_logo.jpg) | ![](screenshots/splash.jpg) |
+| Logo    | Splash |
+|---------|---------|
+| ![](screenshots/cozybite_logo.jpg) | ![](screenshots/splash.jpg) |
 
 |Welcome | Login  | Signup|
 |---------|----------|----------|
