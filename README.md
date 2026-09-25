@@ -7,25 +7,25 @@ Users can explore recipes, search for meals, view recipe details, save favorites
 
 |Logo | Splash |
 |---------|-------|
-| ![](cozybit_logo.jpg) | ![](splash.jpg) |
+| ![](screenshot/cozybit_logo.jpg) | ![](screenshot/splash.jpg) |
 
 |Welcome | Login | Signup|
 |------|------|----------|
-| ![](welcome.jpg) | ![](login.jpg) | ![](signup.jpg) |
+| ![](screenshot/welcome.jpg) | ![](screenshot/login.jpg) | ![](screenshot/signup.jpg) |
 
 
 | Home | Search | Detail1|
 |---------|--------|----------|
-| ![](home.jpg) | ![](sesrch.jpg) | ![](detail1.jpg) |
+| ![](screenshot/home.jpg) | ![](screenshot/sesrch.jpg) | ![](screenshot/detail1.jpg) |
 
 | Detail2 | Favorite | Create|
 |------|------|----------|
-| ![](detail2.jpg) | ![](favorite.jpg) | ![](create.jpg) |
+| ![](screenshot/detail2.jpg) | ![](screenshot/favorite.jpg) | ![](screenshot/create.jpg) |
 
 
 |My Recipes |
 |------ |
-| ![](my_recipes.jpg) | 
+| ![](screenshot/my_recipes.jpg) | 
 
 
 
