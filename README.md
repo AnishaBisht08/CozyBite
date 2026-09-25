@@ -5,12 +5,12 @@ Users can explore recipes, search for meals, view recipe details, save favorites
 
 ## 📱 Screenshots
 
-|Logo | Splash |
+|Logo     | Splash |
 |---------|-------|
 | ![](screenshot/cozybit_logo.jpg) | ![](screenshots/splash.jpg) |
 
-|Welcome | Login | Signup|
-|------|------|----------|
+|Welcome | Login  | Signup|
+|---------|----------|----------|
 | ![](screenshots/welcome.jpg) | ![](screenshots/login.jpg) | ![](screenshots/signup.jpg) |
 
 
@@ -19,7 +19,7 @@ Users can explore recipes, search for meals, view recipe details, save favorites
 | ![](screenshots/home.jpg) | ![](screenshots/sesrch.jpg) | ![](screenshots/detail1.jpg) |
 
 | Detail2 | Favorite | Create|
-|------|------|----------|
+|------|--------|----------|
 | ![](screenshots/detail2.jpg) | ![](screenshots/favorite.jpg) | ![](screenshots/create.jpg) |
 
 
